@@ -1,0 +1,26 @@
+a{
+	text-decoration: none;
+}
+.abc{
+	background: #000;
+	color: #fff;
+}
+.xyz{
+	background: orange;
+	color: #000;
+}
+.january{
+	text-align: center;
+}
+.february{
+	text-align: right;
+}
+.march{
+	padding: 25px 0;
+}
+.may{
+	background: #d63031;
+	color: #fff;
+	padding: 10px 30px;
+	border-radius: 7px;
+}
